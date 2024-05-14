@@ -1,1 +1,3 @@
-# To-Do-New
+Personal Diary app
+Kotlin
+SQLite
